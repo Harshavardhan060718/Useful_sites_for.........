@@ -13,4 +13,16 @@ https://shop.hak5.org/?srsltid=AfmBOoolv6MzVt2IyRZYSIwGKD1XGTwrzslDVlOZm8WUpr5qm
 
 https://haveibeenpwned.com/(Have i been pwned) -> To check whether your mail is safe or not
 
+https://www.notion.so/chat?t=32d32dfc4b1780ffa60e00a98d1df7d6&wfv=chat -> Notion Ai (Auto Generates notes and summaries ) use command /ai inside a page for notion ai 
+
+HuggingFace.com -> Opensource Ai models (ML,NLP,CV)
+
+Runway Ml (Ai video editing and generation)
+
+https://teachablemachine.withgoogle.com/ ->(Train Ml models without coding )
+
+
+
+
+
 
