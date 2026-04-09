@@ -25,7 +25,17 @@ Rows AI (Excel +AI combined) we can easily analyze data and automate calculation
 
 Audiopen ( Converts messy voice notes into clean text) useful for quick revision
 
+
+Durable AI (build websites instantly) https://durable.com/
+
+Krisp Ai (Removes backgrounf noise in audio and video records) https://krisp.ai/
+
 Explainpaper (Explains difficult research papers line by line)
+
+TLDR (Will get an daily email on tech realted news) https://TLDR
+
+
+
 
 
 
